@@ -1,8 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-NAME : MOHAMMED SAAJID S
+NAME : THARUN V K
 
-REGISTER NUMBER : 212223240093
+REGISTER NUMBER : 212223230231
 
 
 # Algorithm or Steps Involved:
